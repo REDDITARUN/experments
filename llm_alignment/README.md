@@ -3,7 +3,7 @@
 ![Purpose](https://img.shields.io/badge/Purpose-AI%20Safety%20Research-blue)
 ![Status](https://img.shields.io/badge/Status-Educational%20Only-orange)
 
-[Read the technical analysis →]([YOUR_BLOG_LINK_HERE](https://teendifferent.substack.com/p/apply_chat_template-is-the-safety))
+[Read the technical analysis →](https://teendifferent.substack.com/p/apply_chat_template-is-the-safety)
 
 ## Abstract
 
